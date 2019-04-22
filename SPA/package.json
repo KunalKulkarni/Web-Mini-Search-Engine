@@ -1,0 +1,26 @@
+{
+  "name": "prj5-sol",
+  "version": "1.0.0",
+  "description": "Name:\t\tMegh Shah B-Number:\tB00715432 Email:\t\tmshah31@binghamton.edu",
+  "main": "docs-app.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel docs-setup.html  --port 1239"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "react": "^16.6.3",
+    "react-dom": "^16.6.3"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.1.6",
+    "@babel/plugin-transform-runtime": "^7.1.0",
+    "parcel-bundler": "^1.10.3"
+  }
+}
